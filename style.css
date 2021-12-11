@@ -1,0 +1,9 @@
+.navbar-background{background-color:blueviolet !important;}
+.btn-download {
+    font-weight: 600;
+    color: #ffe484;
+    border-color: #ffe484;
+}
+.btn-download:hover {
+    background-color:#ffe484;
+    color: black;
